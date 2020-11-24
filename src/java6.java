@@ -2,9 +2,10 @@ import java.util.Scanner;
 
 class person{
     static int age;
-    String name;
-    public static void in(String _name){
-        System.out.println(_name);
+    static String name;
+    public void in(String _name){
+        name = _name;
+        System.out.println(name);
     }
 }
 
@@ -18,3 +19,5 @@ public class java6 {
         System.out.println(lam.age);
     }
 }
+// non-static function co the goi static variable nhuwng static function khong the goi
+// non-static variable
