@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class person{
+class persewdwfon{
     int age;
     String name;
 }
