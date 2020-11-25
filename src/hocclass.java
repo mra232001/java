@@ -1,12 +1,12 @@
 import java.util.Scanner;
 
-class persewdwfon{
+class per{
     int age;
     String name;
 }
 public class hocclass {
     public static void main(String [] args){
-        person one = new person();
+        per one = new per();
         Scanner cin = new Scanner(System.in);
         // day la khai bao 1 cai giong nhu bien, no khong co tac dung nhap hay gi het, chi la
         /// khai bao
